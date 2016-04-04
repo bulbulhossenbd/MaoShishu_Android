@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">মা ও শিশু </string>
+
+
+    <string name="meassage">যদি আমার এপ্লিকেশন টি ভালো লাগে তা হইলে অনুগ্রহ করে লাইক দিবেন </string>
+    <string name="new_rate_dialog_title">Rate Me!</string>
+    <string name="new_rate_dialog_never">Never</string>
+    <string name="new_rate_dialog_later">Later</string>
+    <string name="new_rate_dialog_ok">Rate</string>
+
+
+
+
+
+
+<string name="yes">yes</string>
+<string name="no">No</string>
+<string name="quit">quit</string>
+<string name="title">Are you close application></string>
+
+
+
+
+
+
+
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Articles</string>
+    <string name="nav_item_notifications">Developer by</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+
+
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_2</item>
+        <item>@string/shamsur_kobitar_name_3</item>
+        <item>@string/shamsur_kobitar_name_4</item>
+        <item>@string/shamsur_kobitar_name_5</item>
+        <item>@string/shamsur_kobitar_name_6</item>
+        <item>@string/shamsur_kobitar_name_7</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+    </string-array>
+
+    <string name="title_messages">Mosharrof Rubel</string>
+    <string name="title_friends">Articles</string>
+    <string name="title_home">মা ও শিশু </string>
+
+
+    <string name="shamsur_name">শামসুর রাহমান</string>
+
+
+    <string name="kkobita_list">কবিতা সমূহ</string>
+    <string name="shamsur_kobitar_name_1">শিশুর দাঁতের ক্ষয়রোগ</string>
+    <string name="shamsur_kobitar_name_2">তুমি বলেছিলে</string>
+    <string name="shamsur_kobitar_name_3">তিনি এসেছেন ফিরে</string>
+    <string name="shamsur_kobitar_name_4">একটি কবিতার জন্য</string>
+    <string name="shamsur_kobitar_name_5">আসাদের শার্ট</string>
+    <string name="shamsur_kobitar_name_6">উত্তর</string>
+    <string name="shamsur_kobitar_name_7">একটি ফটোগ্রাফ</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_nav_drawer_labels">
+        <item>@string/kkobita_list</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_2</item>
+        <item>@string/shamsur_kobitar_name_3</item>
+        <item>@string/shamsur_kobitar_name_4</item>
+        <item>@string/shamsur_kobitar_name_5</item>
+        <item>@string/shamsur_kobitar_name_6</item>
+        <item>@string/shamsur_kobitar_name_7</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+
+    </string-array>
+
+
+    <!--listview kobita -->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="shamsur_Kobita_listName">
+
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_2</item>
+        <item>@string/shamsur_kobitar_name_3</item>
+        <item>@string/shamsur_kobitar_name_4</item>
+        <item>@string/shamsur_kobitar_name_5</item>
+        <item>@string/shamsur_kobitar_name_6</item>
+        <item>@string/shamsur_kobitar_name_7</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_1</item>
+        <item>@string/shamsur_kobitar_name_2</item>
+        <item>@string/shamsur_kobitar_name_3</item>
+
+    </string-array>
+
+<string name="babaydetails">শিশুর শারীরিক সুস্থতা ও মানসিক প্রশান্তির জন্য তার মুখগহ্বরের সঠিক যত্ন নেওয়া জরুরি। জন্মের পর থেকে শিশুর এই যত্ন শুরু করা চাই। আর শিশুর বয়স বৃদ্ধির পাশাপাশি দাঁতের যত্ন পুরোদমে নিতে হবে।\n\n
+শিশুর ডেন্টাল কেরিজ বা ক্ষয়রোগে দাঁতের অবস্থা, ব্যাকটেরিয়া জীবাণুর উপস্থিতি ও শর্করাযুক্ত খাবার গ্রহণ—এ তিনের ভূমিকা প্রধান। স্টেপটোককসাই মিউটেনম নামের মুখগহ্বরের ব্যাকটেরিয়া দাঁতের এনামেল নষ্ট করে প্রধানত ক্ষয়রোগের সুযোগ সৃষ্টি করে। পরে তার সঙ্গে যোগ হয় অন্য জীবাণু।
+যখন মা-বাবা শিশুকে জুসভর্তি ফিডার বা বোতল মুখে পুরে দিয়ে ঘুমানোর কাজ সারেন—তা নিঃসন্দেহে দাঁত ক্ষয়ের পথ সুগম করে দেয়। দাঁতের ক্ষয়রোগ উৎপাদনে মুখের ভেতর বেশিক্ষণ ধরে পুরে রাখা শর্করাযুক্ত খাবার অনেকাংশে দায়ী। এ ক্ষেত্রে চুইংগাম বিভিন্ন কোমল পানীয়র শর্করার তুলনায় বেশি ক্ষতিকর।\n\n
+সাধারণভাবে মোলার দাঁতের (ভেতরের দাঁত) প্রান্ত থেকে ক্ষয় বা পোকায় খাওয়া শুরু হয়। এই পর্বে তা থামানোর ব্যবস্থা না করা হলে দাঁতের আরও গভীরে ঢোকে। পালপাইটিস হয়, মাড়িতে ও দাঁতের চারপাশে পুঁজ, প্রদাহ হয়। আরও ছড়িয়ে তা পাশের দাঁত নষ্ট করে, চোয়ালের অস্থিও ছুঁতে পারে বা মুখ ও মস্তিষ্কের অভ্যন্তরে যায়।\n\n
+নষ্ট হওয়া দাঁত চিহ্নিত করতে হবে আগে। ব্যথা-বেদনার জন্য ওষুধ দিতে হবে। সংক্রমণ কতটুকু ছড়িয়েছে, তার ওপর নির্ভর করে খাওয়ানোর
+কিংবা ইনজেকশনের সাহায্যে অ্যান্টিবায়োটিকস দেওয়া যেতে পারে।
+প্রতিরোধটাই আসল। শিশুর প্রতি রাতে ও সকালে দুবার ব্রাশ করা, নিয়মিত মুখগহ্বরের স্বাস্থ্য-পরিচর্যা মানানো অত্যন্ত গুরুত্বপূর্ণ। আরও জরুরি শিশুকে খাওয়ানোর অভ্যাসে বোতল ফিডার ব্যবহার না করা।\n\n\n
+ডা. প্রণব কুমার চৌধুরী\n
+ শিশুস্বাস্থ্য বিভাগ, চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল।\n
+সূত্র: দৈনিক প্রথম আলো, জানুয়ারি ০৩, ২০১৩</string>
+
+
+</resources>
