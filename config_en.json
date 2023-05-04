@@ -5,7 +5,7 @@
 "size":1,
 "type":"icon",
 "radius":50,
-"wrap":false,
+"wrap":true,
 "items":[
 {
 "image":"https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
