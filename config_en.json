@@ -571,7 +571,7 @@
 "hPadding":6,
 "hidePrice":false,
 "showHeart":false,
-"layout":"list",
+"layout":"pinterest",
 "enableRating":true,
 "imageRatio":1.2,
 "isVertical":true,
