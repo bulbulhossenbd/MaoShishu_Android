@@ -186,7 +186,9 @@
 "image":"",
 "isSnapping":true,
 "name":"Woman Collections",
-"category":"gid://shopify/Collection/444199502132"
+"category":"gid://shopify/Collection/444199502132",
+"enableAutoSliding": true,
+"durationAutoSliding": 45
 },
 {
 "layout":"twoColumn",
