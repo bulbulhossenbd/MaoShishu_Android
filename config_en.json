@@ -235,6 +235,8 @@
 "borderRadius":3.0,
 "category":"gid://shopify/Collection/444199502132",
 "name":"New Arrival",
+  "enableAutoSliding": true,
+"durationAutoSliding": 45,
 "image":"",
 "imageWidth":242.09702660406893,
 "backgroundRadius":10.0,
