@@ -190,21 +190,6 @@
 "enableAutoSliding": true,
 "durationAutoSliding": 45
 },
-  { 
-      "username": "thepetcollective", 
-      "limit": 10, 
-      "marginLeft": 16.0, 
-      "marginRight": 16.0, 
-      "marginTop": 8.0, 
-      "marginBottom": 8.0, 
-      "itemBorderRadius": 10, 
-      "itemWidth": 100, 
-      "itemHeight": 200, 
-      "itemSpacing": 10, 
-      "hideAvatar": false, 
-      "hideCaption": false, 
-      "layout": "tiktokVideos" 
-    },
 {
 "layout":"twoColumn",
 "image":"",
