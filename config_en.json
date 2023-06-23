@@ -1,312 +1,1333 @@
 {
-    "HorizonLayout": [
-      {
-        "layout": "logo",
-        "showMenu": true,
-        "showSearch": true,
-        "showLogo": true
-      },
-      {
-        "layout": "category",
-        "type": "icon",
-        "wrap": false,
-        "size": 1.0,
-        "radius": 50.0,
-        "items": [
-          {
-            "category": "gid://shopify/Collection/444199371060",
-            "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
-            "colors": [
-              "#3CC2BF",
-              "#3CC2BF"
-            ],
-            "originalColor": false
-          },
-          {
-            "category": "gid://shopify/Collection/444199436596",
-            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
-            "colors": [
-              "#3E6AB5",
-              "#3E6AB5"
-            ]
-          },
-          {
-            "category": "gid://shopify/Collection/444199502132",
-            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
-            "colors": [
-              "#53A2CC",
-              "#53A2CC"
-            ]
-          },
-          {
-            "category": "gid://shopify/Collection/444199502132",
-            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
-            "colors": [
-              "#53688A",
-              "#53688A"
-            ]
-          },
-          {
-            "category": "gid://shopify/Collection/170409164935",
-            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
-            "colors": [
-              "#43506A",
-              "#43506A"
-            ]
-          },
-          {
-            "category": "gid://shopify/Collection/170409427079",
-            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
-            "colors": [
-              "#12B58C",
-              "#12B58C"
-            ]
-          }
-        ]
-      },
-      {
-        "layout": "bannerImage",
-        "isSlider": true,
-        "autoPlay": true,
-        "showNumber": false,
-        "design": "default",
-        "showBackGround": true,
-        "radius": 2.0,
-        "items": [
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-1_950e5664-d827-40fd-acc0-460420f70254_2100x.jpg",
-            "padding": 15.0
-          },
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider_2100x.jpg",
-            "padding": 15.0
-          },
-          {
-            "product": "4620601819271",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-3_e9dd3239-1fe8-40fa-ab50-5373a42ccf20_2100x.jpg",
-            "padding": 15.0
-          }
-        ]
-      },
-      {
-        "layout": "bannerImage",
-        "items": [
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnic-static_590x.jpg",
-            "padding": 5.0
-          },
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnics-dynamic_590x.gif",
-            "padding": 5.0,
-            "featured": true
-          }
-        ]
-      },
-      {
-        "layout": "bannerImage",
-        "items": [
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-dynamic_590x.gif",
-            "padding": 5.0
-          },
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-static_590x.jpg",
-            "padding": 5.0,
-            "featured": true
-          }
-        ]
-      },
-  
-      {
-        "layout":"bannerImage",
-        "design":"stack",
-        "fit":"cover",
-        "marginLeft":10.0,
-        "items":[
-          {
-            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-2_590x.jpg",
-            "showSubcategory":false,
-            "bannerWithProduct":false,
-            "defaultShowProduct":false,
-            "products":[]
-          },
-          {
-            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-1fdvs_590x.jpg",
-            "showSubcategory":false,
-            "bannerWithProduct":false,
-            "defaultShowProduct":false,
-            "products":[]
-          },
-          {
-            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-3_590x.jpg",
-            "showSubcategory":false,
-            "bannerWithProduct":false,
-            "defaultShowProduct":false,
-            "products":[]
-          },
-          {
-            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-4_590x.jpg",
-            "showSubcategory":false,
-            "bannerWithProduct":false,
-            "defaultShowProduct":false,
-            "products":[]
-          }
-        ],
-        "marginBottom":0.0,
-        "height":0.25,
-        "marginRight":10.0,
-        "marginTop":10.0,
-        "radius":6.0,
-        "padding":0.0,
-        "enableParallax":false,
-        "parallaxImageRatio":1.2,
-        "isHorizontal":false,
-        "isSlider":true,
-        "autoPlay":true,
-        "intervalTime":2,
-        "showNumber":false,
-        "isBlur":false,
-        "showBackground":false,
-        "upHeight":0.0,
-        "parallax":false
-      },
-  
-      {
-        "name": "Recent View",
-        "layout": "recentView"
-      },
-      {
-        "name": "Woman Collections",
-        "image": "",
-        "layout": "threeColumn",
-        "category": "gid://shopify/Collection/444199502132",
-        "isSnapping": true
-      },
-      {
-        "name": "Man Collections",
-        "image": "",
-        "layout": "twoColumn",
-        "category": "gid://shopify/Collection/444199502132",
-        "isSnapping": true
-      },
-      {
-        "name": "Recent View",
-        "layout": "recentView"
-      },
-      {
-        "name": "New Collections",
-        "layout": "staggered",
-        "limit": 20,
-        "category": "gid://shopify/Collection/444199502132"
-      }
-    ],
-    "Setting": {
-      "MainColor": "#3FC1BE",
-      "ProductListLayout": "list",
-      "StickyHeader": false
-    },
-    "TabBar": [
-      {
-        "layout": "home",
-        "icon": "home",
-        "pos": 100,
-        "fontFamily": "CupertinoIcons",
-        "key": "p1q235ba14"
-      },
-      {
-        "pos": 200,
-        "layout": "category",
-        "icon": "rectangle_grid_1x2",
-        "fontFamily": "CupertinoIcons",
-        "categoryLayout": "card",
-        "key": "hwu0rkrizt",
-        "remapCategories": [
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "name": "Features",
-            "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
-          },
-          {
-            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
-            "name": "Bags"
-          },
-          {
-            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
-            "name": "Clothing"
-          },
-          {
-            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
-            "name": "Shoes"
-          },
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
-            "name": "Women"
-          },
-          {
-            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
-            "name": "Man"
-          }
-        ]
-      },
-      {
-        "key": "2reihs4qzc",
-        "icon": "search",
-        "layout": "search",
-        "fontFamily": "CupertinoIcons",
-        "pos": 300,
-        "size": 24
-      },
-      {
-        "pos": 400,
-        "icon": "bag",
-        "layout": "cart",
-        "categoryLayout": "cart",
-        "key": "a2xts0oou6",
-        "fontFamily": "CupertinoIcons"
-      },
-      {
-        "layout": "profile",
-        "fontFamily": "CupertinoIcons",
-        "pos": 500,
-        "key": "69jw5yx12d",
-        "icon": "person"
-      }
-    ],
-    "searchSuggestion": [
-      "man",
-      "dress",
-      "Stitch",
-      "ma"
-    ],
-    "OnBoarding": {
-      "data": [
-        {
-          "title": "Welcome to FluxStore",
-          "image": "assets/images/fogg-delivery-1.png",
-          "desc": "Fluxstore is on the way to serve you. ",
-          "background": "#FFF3F2"
-        },
-        {
-          "title": "Connect Surrounding World",
-          "image": "assets/images/fogg-uploading-1.png",
-          "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
-          "background": "#F2FFFC"
-        },
-        {
-          "title": "Let's Get Started",
-          "image": "fogg-order-completed.png",
-          "desc": "Waiting no more, let's see what we get!",
-          "background": "#F9F2FF"
-        }
-      ]
-    }
-  }
+"HorizonLayout":[
+{
+"layout":"category",
+"size":1,
+"type":"icon",
+"radius":50,
+"wrap":false,
+"items":[
+{
+"image":"https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+"originalColor":false,
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#3CC2BF",
+"#3CC2BF"]
+},
+{
+"image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#3E6AB5",
+"#3E6AB5"]
+},
+{
+"image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#53A2CC",
+"#53A2CC"]
+},
+{
+"image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#53688A",
+"#53688A"]
+},
+{
+"image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#43506A",
+"#43506A"]
+},
+{
+"image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
+"category":"gid://shopify/Collection/444199436596",
+"colors":["#12B58C",
+"#12B58C"]
+}
+]
+},
+{
+"padding":1.4,
+"upHeight":0,
+"parallax":false,
+"isSlider":true,
+"enableParallax":false,
+"isHorizontal":false,
+"marginLeft":15,
+"fit":"cover",
+"marginRight":15,
+"isBlur":false,
+"layout":"bannerImage",
+"parallaxImageRatio":1.2,
+"showNumber":false,
+"design":"default",
+"showBackground":false,
+"marginBottom":0,
+"radius":6.5,
+"autoPlay":true,
+"items":[
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-1_950e5664-d827-40fd-acc0-460420f70254_2100x.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider_2100x.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-3_e9dd3239-1fe8-40fa-ab50-5373a42ccf20_2100x.jpg",
+"product":"4620601819271",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":0,
+"height":0.2,
+"intervalTime":3
+},
+{
+"layout":"bannerImage",
+"items":[
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnic-static_590x.jpg",
+"padding":5,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ=="
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnics-dynamic_590x.gif",
+"padding":5,
+"featured":true,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ=="
+}
+]
+},
+{
+"layout":"bannerImage",
+"items":[
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-dynamic_590x.gif",
+"padding":5,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ=="
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-static_590x.jpg",
+"padding":5,
+"featured":true,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ=="
+}
+]
+},
+{
+"padding":0,
+"upHeight":0,
+"parallax":false,
+"isSlider":true,
+"enableParallax":false,
+"isHorizontal":false,
+"marginLeft":10,
+"layout":"bannerImage",
+"fit":"cover",
+"marginRight":10,
+"isBlur":false,
+"parallaxImageRatio":1.2,
+"showNumber":false,
+"design":"stack",
+"showBackground":false,
+"marginBottom":0,
+"radius":6,
+"autoPlay":true,
+"items":[
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-2_590x.jpg",
+"tab":"dynamic",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-1fdvs_590x.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-3_590x.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-4_590x.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":10,
+"height":0.25,
+"intervalTime":2
+},
+{
+"layout":"threeColumn",
+"image":"",
+"isSnapping":true,
+"name":"Woman Collections",
+"category":"gid://shopify/Collection/444199502132",
+"borderRadius":3.0,
+"hMargin":6.0,
+"vMargin":0.0,
+"hPadding":6.0,
+"vPadding":2.0,
+"cardDesign":"card",
+"backgroundRadius":10.0,
+"showCountDown":false,
+"onSale":false,
+"rows":1,
+"columns":3,
+"imageRatio":1.2,
+"imageBoxfit":"cover",
+"hidePrice":false,
+"hideStore":false,
+"hideTitle":false,
+"enableRating":true,
+"showStockStatus":true,
+"hideEmptyProductListRating":false,
+"showHeart":false,
+"showCartButton":false,
+"showCartIcon":true,
+"showCartIconColor":false,
+"cartIconRadius":9.0,
+"showQuantity":false,
+"enableBottomAddToCart":false,
+"showOnlyImage":false,
+"showCartButtonWithQuantity":false,
+"parallax":false,
+"parallaxImageRatio":1.2,
+"hideEmptyProductLayout":false,
+"productListItemHeight":125.0
+},
+{
+"layout":"twoColumn",
+"image":"",
+"isSnapping":true,
+"name":"Man Collections",
+"category":"gid://shopify/Collection/444199502132"
+},
+{
+"layout":"recentView",
+"name":"Recent View"
+},
+{
+"layout":"staggered",
+"name":"New Collections",
+"limit":20,
+"category":"gid://shopify/Collection/444199502132"
+},
+{
+"showCartIcon":true,
+"imageBoxfit":"cover",
+"showStockStatus":true,
+"featured":false,
+"hideEmptyProductLayout":false,
+"showCountDown":false,
+"parallax":false,
+"columns":0,
+"hideStore":false,
+"vPadding":0,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":6,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":0,
+"showOnlyImage":false,
+"onSale":false,
+"imageWidth":242.09702660406893,
+"image":"",
+"productListItemHeight":125,
+"showCartIconColor":false,
+"hPadding":0,
+"hidePrice":false,
+"rows":1,
+"enableBottomAddToCart":false,
+"layout":"largeCard",
+"enableRating":true,
+"imageRatio":1.2,
+"hideTitle":false,
+"borderRadius":3,
+"cardDesign":"card",
+"backgroundRadius":10,
+"isSnapping":false,
+"showCartButton":false,
+"name":"New Arrival",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"hideEmptyProductListRating":false
+},
+{
+"showCartIcon":false,
+"boxShadow":{
+"spreadRadius":10,
+"colorOpacity":0.1,
+"blurRadius":10,
+"x":7,
+"y":9
+},
+"imageBoxfit":"cover",
+"showStockStatus":false,
+"featured":false,
+"titleLine":1,
+"hideEmptyProductLayout":false,
+"showCountDown":false,
+"parallax":true,
+"columns":0,
+"hideStore":false,
+"vPadding":2,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":3,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":18,
+"showOnlyImage":false,
+"onSale":false,
+"image":"",
+"backgroundColor":"fffce4ec",
+"productListItemHeight":125,
+"showCartIconColor":false,
+"hPadding":15,
+"hidePrice":false,
+"rows":1,
+"enableBottomAddToCart":true,
+"layout":"threeColumn",
+"enableRating":false,
+"imageRatio":1.3,
+"hideTitle":false,
+"borderRadius":11,
+"backgroundHeight":194,
+"cardDesign":"card",
+"backgroundRadius":0,
+"isSnapping":true,
+"showCartButton":false,
+"name":"New Collections ⭐️",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"backgroundWidthMode":true,
+"hideEmptyProductListRating":false,
+"spaceWidth":3.4428794992175966
+},
+{
+"showCartIcon":true,
+"boxShadow":{
+"spreadRadius":10,
+"colorOpacity":0.1,
+"blurRadius":19.19191919191919,
+"x":7,
+"y":9
+},
+"imageBoxfit":"cover",
+"showStockStatus":false,
+"featured":false,
+"hideEmptyProductLayout":false,
+"titleLine":1,
+"showCountDown":false,
+"parallax":true,
+"columns":0,
+"hideStore":false,
+"vPadding":0,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":6,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":0,
+"showOnlyImage":false,
+"onSale":false,
+"image":"",
+"productListItemHeight":125,
+"showCartIconColor":false,
+"hPadding":0,
+"hidePrice":false,
+"rows":1,
+"enableBottomAddToCart":false,
+"layout":"twoColumn",
+"enableRating":true,
+"imageRatio":1.2,
+"hideTitle":false,
+"borderRadius":3,
+"backgroundHeight":100,
+"cardDesign":"card",
+"backgroundRadius":10,
+"isSnapping":true,
+"showCartButton":false,
+"name":"Popular courses",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"hideEmptyProductListRating":false,
+"backgroundWidthMode":true,
+"spaceWidth":0
+},
+{
+"showCartIcon":false,
+"boxShadow":{
+"spreadRadius":10,
+"colorOpacity":0.1,
+"blurRadius":5.05050505050505,
+"x":7,
+"y":9
+},
+"imageBoxfit":"cover",
+"showStockStatus":false,
+"featured":false,
+"backgroundBoxFit":"contain",
+"titleLine":1,
+"hideEmptyProductLayout":false,
+"showCountDown":true,
+"parallax":false,
+"columns":0,
+"hideStore":false,
+"backgroundImage":"https://trello.com/1/cards/61baf159c1ad3c1be55bc3ef/attachments/61baf17b156fb77678a6a729/download/ceb48de6-e86c-4638-8b7d-08508dfaeb8a.png.webp",
+"vPadding":9,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":5,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":15,
+"showOnlyImage":false,
+"onSale":true,
+"image":"",
+"backgroundColor":"ff009688",
+"productListItemHeight":125,
+"showCartIconColor":false,
+"hPadding":7,
+"hidePrice":false,
+"rows":1,
+"enableBottomAddToCart":false,
+"layout":"twoColumn",
+"enableRating":true,
+"imageRatio":1.1,
+"hideTitle":false,
+"borderRadius":11,
+"backgroundHeight":365,
+"cardDesign":"card",
+"backgroundRadius":0,
+"isSnapping":true,
+"showCartButton":false,
+"name":"Sale 30% ⚡️",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"hideEmptyProductListRating":false,
+"spaceWidth":138.08025981104657
+},
+{
+"showCartIcon":true,
+"boxShadow":{
+"spreadRadius":10,
+"colorOpacity":0.1,
+"blurRadius":5.05050505050505,
+"x":7,
+"y":9
+},
+"imageBoxfit":"cover",
+"showStockStatus":true,
+"featured":false,
+"hideEmptyProductLayout":false,
+"marginBGP":{
+"top":0,
+"left":0,
+"bottom":0,
+"right":0
+},
+"showCountDown":false,
+"parallax":false,
+"columns":0,
+"hideStore":false,
+"vPadding":0,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":6,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":0,
+"showOnlyImage":false,
+"onSale":false,
+"image":"",
+"productListItemHeight":125,
+"showCartIconColor":false,
+"hPadding":0,
+"hidePrice":false,
+"rows":1,
+"enableBottomAddToCart":false,
+"layout":"card",
+"enableRating":true,
+"imageRatio":1.2,
+"hideTitle":false,
+"borderRadius":3,
+"cardDesign":"card",
+"backgroundRadius":10,
+"isSnapping":true,
+"showCartButton":false,
+"name":"",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"hideEmptyProductListRating":false,
+"backgroundWidthMode":true,
+"spaceWidth":0
+},
+{
+"showCartIcon":false,
+"boxShadow":{
+"spreadRadius":10,
+"colorOpacity":0.1,
+"blurRadius":5.05050505050505,
+"x":7,
+"y":9
+},
+"imageBoxfit":"fitWidth",
+"showStockStatus":false,
+"featured":false,
+"titleLine":1,
+"hideEmptyProductLayout":false,
+"showCountDown":false,
+"parallax":false,
+"columns":0,
+"hideStore":false,
+"vPadding":6,
+"showQuantity":false,
+"showHeart":false,
+"hMargin":6,
+"parallaxImageRatio":1.2,
+"showCartButtonWithQuantity":false,
+"vMargin":0,
+"showOnlyImage":false,
+"onSale":false,
+"image":"",
+"productListItemHeight":125,
+"showCartIconColor":true,
+"hPadding":0,
+"hidePrice":false,
+"rows":2,
+"enableBottomAddToCart":false,
+"layout":"twoColumn",
+"enableRating":true,
+"imageRatio":1.2,
+"hideTitle":false,
+"borderRadius":3,
+"cardDesign":"card",
+"backgroundRadius":10,
+"isSnapping":true,
+"showCartButton":false,
+"name":"Collections",
+"cartIconRadius":9,
+"category":"gid://shopify/Collection/444199502132",
+"hideEmptyProductListRating":false
+},
+{
+"padding":0,
+"upHeight":0,
+"parallax":false,
+"isSlider":true,
+"enableParallax":false,
+"title":{
+"rotate":[],
+"usePrimaryColor":true,
+"paddingRight":15,
+"minWidth":0,
+"title":"Footwear",
+"marginLeft":16,
+"marginRight":0,
+"paddingBottom":0,
+"showSearch":false,
+"borderInput":false,
+"textOpacity":1,
+"fontSize":25,
+"marginBottom":0,
+"paddingTop":0,
+"isSafeArea":false,
+"alignment":"centerLeft",
+"paddingLeft":5,
+"fontWeight":400,
+"marginTop":0,
+"height":50
+},
+"isHorizontal":false,
+"marginLeft":null,
+"layout":"bannerImage",
+"fit":"fitHeight",
+"marginRight":null,
+"isBlur":false,
+"parallaxImageRatio":1.2,
+"showNumber":false,
+"design":"stack",
+"showBackground":false,
+"marginBottom":0,
+"radius":0,
+"autoPlay":true,
+"items":[
+{
+"image":"https://i.imgur.com/17W1f40.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://i.imgur.com/ZHLLfPK.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://i.imgur.com/Xi6Iu8r.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":0,
+"height":0.45,
+"intervalTime":2
+},
+{
+"parallax":false,
+"enableParallax":false,
+"title":{
+"rotate":[],
+"usePrimaryColor":true,
+"paddingRight":15,
+"minWidth":0,
+"title":"Footwear",
+"marginLeft":16,
+"marginRight":0,
+"paddingBottom":0,
+"showSearch":false,
+"borderInput":false,
+"textOpacity":1,
+"fontSize":25,
+"marginBottom":0,
+"paddingTop":0,
+"isSafeArea":false,
+"alignment":"centerLeft",
+"paddingLeft":5,
+"fontWeight":400,
+"marginTop":0,
+"height":50
+},
+"isHorizontal":false,
+"marginLeft":6,
+"layout":"bannerImage",
+"fit":"fitHeight",
+"marginRight":6,
+"parallaxImageRatio":1.2,
+"design":"static",
+"marginBottom":5,
+"items":[
+{
+"image":"https://i.imgur.com/17W1f40.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://i.imgur.com/ZHLLfPK.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://i.imgur.com/Xi6Iu8r.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":6,
+"height":0.3
+},
+{
+"padding":0,
+"upHeight":0,
+"parallax":false,
+"isSlider":true,
+"enableParallax":false,
+"isHorizontal":false,
+"marginLeft":null,
+"layout":"bannerImage",
+"fit":"fill",
+"marginRight":null,
+"isBlur":false,
+"parallaxImageRatio":1.2,
+"showNumber":false,
+"design":"default",
+"showBackground":false,
+"marginBottom":0,
+"radius":0,
+"autoPlay":true,
+"items":[
+{
+"image":"https://i.imgur.com/cY1aFyz.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"category":23,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://i.imgur.com/9TKqioM.png",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"category":23,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":0,
+"height":0.3,
+"intervalTime":10
+},
+{
+"marginRight":2,
+"layout":"sliderTestimonial",
+"marginBottom":0,
+"type":"swiper",
+"autoPlay":true,
+"items":[
+{
+"testimonial":"This shirt is so soft and comfortable. I was a bit worried about the size running small, but I normally wear a medium and it fits great",
+"boxShadow":{
+"spreadRadius":0,
+"colorOpacity":0.1,
+"blurRadius":2.0202020202020203,
+"x":4,
+"y":2
+},
+"backgroundColor":"ff80cbc4",
+"rating":5,
+"avatar":"https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61a9ba3e97f20d84a0ef074d/previews/61a9ba4097f20d84a0ef07ba/download/1178_U1RVRElPIEtBVCAxNDEtNDQ.jpg",
+"type":"card",
+"authorInTop":false,
+"marginLeft":10,
+"marginRight":10,
+"major":"Customer",
+"isLeft":true,
+"borderRadius":5,
+"borderWidth":0.2,
+"name":"John Alethea",
+"marginBottom":0,
+"marginTop":0
+},
+{
+"testimonial":"This shirt is so soft and comfortable. I was a bit worried about the size running small, but I normally wear a medium and it fits great",
+"boxShadow":{
+"spreadRadius":0,
+"colorOpacity":0.1,
+"blurRadius":2.0202020202020203,
+"x":4,
+"y":2
+},
+"backgroundColor":"ff2196f3",
+"rating":4.5,
+"avatar":"https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61b1c4d17c691a149e4fd8ea/previews/61b1c4d27c691a149e4fd9d2/download/beard.png",
+"type":"card",
+"authorInTop":false,
+"marginLeft":10,
+"marginRight":10,
+"major":"Shipper",
+"isLeft":true,
+"borderRadius":5,
+"borderWidth":0.2,
+"name":"John Blethea",
+"marginBottom":0,
+"marginTop":0
+}
+],
+"marginTop":0,
+"marginLeft":0,
+"intervalTime":3,
+"height":250
+}
+],
+"Setting":{
+"TabBarConfig":{
+"enableOnTop":false,
+"color":null,
+"radiusTopLeft":0,
+"paddingRight":0,
+"radiusTopRight":0,
+"TabBarIndicator":{
+"strokeWidth":null,
+"color":"ffb14c1a",
+"horizontalPadding":null,
+"topRightRadius":null,
+"tabPosition":"top",
+"bottomRightRadius":9.988863169703269,
+"bottomLeftRadius":9.980371609191021,
+"topLeftRadius":null,
+"paintingStyle":"fill",
+"distanceFromCenter":null,
+"radius":null,
+"verticalPadding":null,
+"height":null
+},
+"showMinimize":false,
+"marginRight":0,
+"enableDivider":true,
+"paddingBottom":0,
+"indicatorStyle":"material",
+"enable":true,
+"radiusBottomRight":0,
+"iconSize":23.025228226675463,
+"showFloatingClip":true,
+"paddingTop":0,
+"isSafeArea":true,
+"TabBarFloating":{
+"elevation":2.005172228538149,
+"color":"ffb1521a",
+"width":null,
+"floatingType":"rectangle",
+"location":"centerDocked",
+"position":2,
+"radius":null,
+"height":null
+},
+"showFloating":true,
+"colorActiveIcon":"ffb12f1a",
+"colorCart":"fffe2060",
+"radiusBottomLeft":0,
+"marginLeft":0,
+"colorIcon":"ff7a7b7f",
+"marginBottom":0,
+"paddingLeft":0,
+"marginTop":0
+},
+"FontFamily":"Roboto",
+"FontHeader":"Raleway",
+"ProductDetail":"simpleType",
+"MainColor":"#3FC1BE",
+"ShowChat":true,
+"AgeRestriction":{
+"alwaysShowUponOpen":true,
+"enable":false,
+"imageUrl":"",
+"minimumAge":21,
+"hintMessage":"",
+"useLogo":true,
+"title":"",
+"deniedMessage":"",
+"backgroundImageUrl":""
+},
+"ProductListLayout":"list",
+"SmartEngagementBanner":{
+"popup":{
+"closePosition":"bottomCenter",
+"data":{
+"parallax":false,
+"enableParallax":false,
+"isHorizontal":false,
+"marginLeft":10,
+"layout":"bannerImage",
+"fit":"cover",
+"marginRight":16,
+"parallaxImageRatio":1.2,
+"design":"static",
+"marginBottom":20,
+"items":[
+{
+"image":"https://media.tenor.com/Y2177_lW3DgAAAAM/new-offer-new.gif",
+"padding":48.1,
+"tab":"dynamic",
+"bannerWithProduct":true,
+"showSubcategory":false,
+"radius":0,
+"productLength":5,
+"defaultShowProduct":true,
+"products":[]
+}
+],
+"marginTop":67,
+"key":"zvfda7j6cq"
+},
+"enable":true,
+"alwaysShowUponOpen":true
+},
+"flexible":{
+"canClose":true,
+"data":{
+"layout":"button",
+"marginBottom":0,
+"alignment":"topLeft",
+"items":[
+{
+"marginRight":0,
+"textFontSize":14,
+"image":"https://media1.giphy.com/media/sgTMINOA908LfcmUWh/200w.gif?cid=82a1493bfvew6f0qgtrvx9fc1ebhbc98wom9halwnwrt9zu8&rid=200w.gif&ct=s",
+"useMaxWidth":true,
+"borderRadius":0,
+"width":100,
+"navigator":{
+"tab":"dynamic",
+"showSubcategory":false
+},
+"height":62,
+"marginLeft":0
+}
+],
+"marginTop":0,
+"key":"z3a35ni8bu"
+},
+"enable":true,
+"width":149,
+"canDrag":true,
+"height":148
+},
+"sticky":{
+"enable":false}
+},
+"StickyHeader":false
+},
+"TabBar":[
+{
+"layout":"home",
+"fontFamily":"CupertinoIcons",
+"pos":100,
+"icon":"home",
+"key":"vd9b7c4pgg"
+},
+{
+"layout":"category",
+"parallaxImageRatio":1.2,
+"fontFamily":"CupertinoIcons",
+"remapCategories":[
+{
+"image":"https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391",
+"name":"Features",
+"category":"gid://shopify/Collection/170409263239"
+},
+{
+"parent":"gid://shopify/Collection/170409263239",
+"name":"Bags",
+"category":"gid://shopify/Collection/170409164935"
+},
+{
+"parent":"gid://shopify/Collection/170409263239",
+"name":"Clothing",
+"category":"gid://shopify/Collection/170409427079"
+},
+{
+"parent":"gid://shopify/Collection/170409263239",
+"name":"Shoes",
+"category":"gid://shopify/Collection/170408968327"
+},
+{
+"name":"Women",
+"category":"gid://shopify/Collection/170409525383"
+},
+{
+"name":"Man",
+"category":"gid://shopify/Collection/170409623687"
+}
+],
+"fullscreen":false,
+"pos":200,
+"parallax":false,
+"defaultTab":false,
+"icon":"rectangle_grid_1x2",
+"categoryLayout":"card",
+"key":"vd9b7c4pgg"
+},
+{
+"layout":"search",
+"fontFamily":"CupertinoIcons",
+"size":24,
+"pos":300,
+"icon":"search",
+"key":"vd9b7c4pgg"
+},
+{
+"layout":"cart",
+"fontFamily":"CupertinoIcons",
+"pos":400,
+"icon":"bag",
+"categoryLayout":"cart",
+"key":"vd9b7c4pgg"
+},
+{
+"layout":"profile",
+"fontFamily":"CupertinoIcons",
+"pos":500,
+"icon":"person",
+"key":"vd9b7c4pgg"
+},
+{
+"layout":"dynamic",
+"configs":{
+"HorizonLayout":[
+{
+"padding":0,
+"upHeight":0,
+"parallax":false,
+"isSlider":true,
+"enableParallax":false,
+"isHorizontal":false,
+"marginLeft":null,
+"layout":"bannerImage",
+"fit":"fitWidth",
+"marginRight":null,
+"isBlur":false,
+"parallaxImageRatio":1.2,
+"pos":100,
+"showNumber":false,
+"design":"swiper",
+"showBackground":false,
+"marginBottom":0,
+"radius":20,
+"autoPlay":true,
+"items":[
+{
+"image":"https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://user-images.githubusercontent.com/1459805/62834031-28012200-bc71-11e9-9980-f090df262343.jpg",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+},
+{
+"image":"https://inspireui.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F81c15a81-af1c-4098-a5a1-8b8a21f58441%2Fbanner1.png?table=block&id=a8f3b172-92c3-4d05-9890-0c84a4a50488&spaceId=adfc7c52-309f-45b9-8822-60b33369c98c&width=2000&userId=&cache=v2",
+"bannerWithProduct":false,
+"showSubcategory":false,
+"defaultShowProduct":false,
+"products":[]
+}
+],
+"marginTop":0,
+"key":"l2izxqnhi3",
+"intervalTime":3
+},
+{
+"line":false,
+"columns":3,
+"type":"image",
+"showShortDescription":true,
+"marginRight":10,
+"imageSpacing":0,
+"spacing":12,
+"pos":200,
+"itemSize":{
+"width":370,
+"height":150
+},
+"radius":5,
+"border":0.6,
+"imageBoxFit":"fitWidth",
+"labelFontSize":14,
+"noBackground":false,
+"enableBorder":false,
+"marginX":0,
+"marginLeft":10,
+"marginY":0,
+"layout":"category",
+"paddingX":2,
+"imageBorderStyle":"solid",
+"size":1,
+"hideTitle":false,
+"textAlignment":"topCenter",
+"marginBottom":10,
+"wrap":true,
+"items":[
+{
+"image":"https://images.unsplash.com/photo-1604508230015-5a54faf1fa56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"title":"T-Shirt",
+"category":null,
+"fontWeight":300
+},
+{
+"image":"https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"title":"Jeans",
+"category":null,
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1594587639781-a68a2796bb90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"category":null,
+"title":"Jacket",
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"category":null,
+"title":"Suit",
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"category":null,
+"title":"Dress",
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=738&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"title":"Bag",
+"category":null,
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"title":"Glasses",
+"category":null,
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1531399395381-6603d3b9899f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"category":null,
+"title":"Hat",
+"fontWeight":200
+},
+{
+"image":"https://images.unsplash.com/photo-1603808033192-082d6919d3e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+"showDescription":false,
+"originalColor":true,
+"showText":true,
+"keepDefaultTitle":false,
+"fontSize":14,
+"category":null,
+"title":"Shoes",
+"fontWeight":200
+}
+],
+"marginTop":10,
+"paddingY":6
+}
+],
+"VerticalLayout":{
+"showCartIcon":true,
+"showStockStatus":true,
+"hideStore":false,
+"showCartIconColor":false,
+"vPadding":2,
+"showQuantity":false,
+"hPadding":6,
+"hidePrice":false,
+"showHeart":false,
+"layout":"menu",
+"enableRating":true,
+"imageRatio":1.2,
+"isVertical":true,
+"hideTitle":false,
+"showCartButton":false,
+"name":"",
+"cartIconRadius":12,
+"shuffle":false,
+"key":"mpxdaz611y"}
+},
+"fullscreen":false,
+"pos":600,
+"defaultTab":false,
+"icon":"assets/icons/tabs/icon-heartthin.png",
+"label":"Offer",
+"groupLayout":true,
+"menuLabel":"Offer",
+"key":"vd9b7c4pgg"
+}
+],
+"Drawer":{
+"logo":"assets/images/logo.png",
+"items":[
+{
+"show":true,
+"type":"home"
+},
+{
+"show":true,
+"type":"blog"
+},
+{
+"show":true,
+"type":"login"
+},
+{
+"show":true,
+"type":"category"
+}
+]
+},
+"AppBar":{
+"elevation":0,
+"pinned":false,
+"showOnScreens":["home"],
+"enable":true,
+"floating":false,
+"alwaysShowAppBar":false,
+"expandedItems":[],
+"items":[
+{
+"backgroundColor":"0",
+"paddingRight":4,
+"icon":"square_grid_2x2",
+"type":"icon",
+"marginLeft":16,
+"marginRight":4,
+"fontFamily":"CupertinoIcons",
+"paddingBottom":4,
+"size":40,
+"pos":100,
+"action":"menu",
+"textOpacity":0.5,
+"iconSize":24,
+"fontSize":16,
+"marginBottom":4,
+"paddingTop":4,
+"alignment":"center",
+"radius":18,
+"paddingLeft":4,
+"fontWeight":"400",
+"marginTop":4,
+"key":"gbs354efgo"
+},
+{
+"paddingRight":0,
+"icon":"location",
+"type":"image",
+"title":"TOY ZONE",
+"marginRight":0,
+"fontFamily":"CupertinoIcons",
+"paddingBottom":0,
+"pos":200,
+"action":"category",
+"iconSize":24,
+"paddingTop":0,
+"radius":5,
+"fontWeight":"800",
+"key":"szmh08w6y1",
+"height":46.48,
+"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/yellow_logo_070f5563-c34b-462f-bc89-275ad94bb244.png",
+"backgroundColor":"ff0b1f37",
+"imageBoxFit":"fill",
+"marginLeft":0,
+"size":20,
+"textOpacity":0.8,
+"fontSize":18,
+"marginBottom":0,
+"alignment":"center",
+"paddingLeft":0,
+"marginTop":0
+},
+{
+"backgroundColor":"0",
+"paddingRight":4,
+"icon":"shopping_cart",
+"type":"icon",
+"marginLeft":4,
+"marginRight":16,
+"fontFamily":"CupertinoIcons",
+"paddingBottom":4,
+"size":40,
+"pos":400,
+"action":"cart",
+"textOpacity":0.5,
+"iconSize":24,
+"fontSize":16,
+"marginBottom":4,
+"paddingTop":4,
+"alignment":"center",
+"radius":18,
+"paddingLeft":4,
+"fontWeight":"400",
+"marginTop":4,
+"key":"swrxx0zicb"
+}
+],
+"snap":false
+},
+"VerticalLayout":{
+"showCartIcon":true,
+"showStockStatus":true,
+"hideStore":false,
+"showCartIconColor":false,
+"vPadding":2,
+"showQuantity":false,
+"hPadding":6,
+"hidePrice":false,
+"showHeart":false,
+"layout":"menu",
+"enableRating":true,
+"imageRatio":1,
+"isVertical":true,
+"hideTitle":false,
+"showCartButton":false,
+"name":"New Items Added...",
+"cartIconRadius":12,
+"shuffle":false,
+"key":"vd9b7c4pgg"}}
