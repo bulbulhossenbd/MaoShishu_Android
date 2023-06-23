@@ -1,542 +1,312 @@
 {
-    "HorizonLayout": [{
-            "isSafeArea": false,
-            "showSearch": false,
-            "usePrimaryColor": true,
-            "borderInput": false,
-            "title": "Hello, <b>{name}</b> ",
-            "alignment": "centerLeft",
-            "fontWeight": 400,
-            "fontSize": 24,
-            "textOpacity": 1,
-            "marginLeft": 15.0,
-            "marginRight": 0,
-            "marginBottom": 0,
-            "marginTop": 14.000000000000002,
-            "paddingLeft": 5,
-            "paddingRight": 15,
-            "paddingTop": 0.0,
-            "paddingBottom": 0,
-            "height": 49.4,
-            "rotate": [],
-            "minWidth": 0,
-            "layout": "header_text",
-            "pos": 100,
-            "isPreviewing": null,
-            "isBulk": true
-        },
-        {
-            "isSafeArea": false,
-            "showSearch": false,
-            "usePrimaryColor": true,
-            "borderInput": false,
-            "title": "How are you feeling today ? ",
-            "alignment": "centerLeft",
-            "fontWeight": 400,
-            "fontSize": 18.0,
-            "textOpacity": 1,
-            "marginLeft": 15.0,
-            "marginRight": 6.0,
-            "marginBottom": 0,
-            "marginTop": 0.0,
-            "paddingLeft": 5,
-            "paddingRight": 15,
-            "paddingTop": 0.0,
-            "paddingBottom": 5.0,
-            "height": 50.4,
-            "rotate": [],
-            "minWidth": 0,
-            "layout": "header_text",
-            "pos": 200,
-            "isPreviewing": null,
-            "isBulk": true
-        },
-        {
-            "layout": "category",
-            "type": "icon",
-            "wrap": true,
-            "showShortDescription": true,
-            "size": 1.0,
-            "radius": 50.0,
-            "spacing": 12.0,
-            "items": [{
-                    "image": "https://i.imgur.com/l8GS8uS.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Love",
-                    "colors": ["#333333"]
-                },
-                {
-                    "image": "https://i.imgur.com/kndtOZK.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Cool",
-                    "colors": ["#333333"]
-                },
-                {
-                    "image": "https://i.imgur.com/du4KhOa.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Happy",
-                    "colors": ["#333333"]
-                },
-                {
-                    "image": "https://i.imgur.com/AARiV5a.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Sad",
-                    "colors": ["#333333"]
-                }
+    "HorizonLayout": [
+      {
+        "layout": "logo",
+        "showMenu": true,
+        "showSearch": true,
+        "showLogo": true
+      },
+      {
+        "layout": "category",
+        "type": "icon",
+        "wrap": false,
+        "size": 1.0,
+        "radius": 50.0,
+        "items": [
+          {
+            "category": "gid://shopify/Collection/444199371060",
+            "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
+            "colors": [
+              "#3CC2BF",
+              "#3CC2BF"
             ],
-            "line": false,
-            "marginLeft": 10.0,
-            "marginRight": 10.0,
-            "marginTop": 16.0,
-            "marginBottom": 20.0,
-            "pos": 300,
-            "paddingX": 0.0,
-            "paddingY": 0.0,
-            "marginX": 0.0,
-            "marginY": 0.0,
-            "hideTitle": false,
-            "noBackground": false,
-            "imageBorderStyle": "solid",
-            "imageSpacing": 0.0,
-            "labelFontSize": 14.0,
-            "columns": 4
-        },
-        {
-            "isSafeArea": false,
-            "showSearch": false,
-            "usePrimaryColor": true,
-            "borderInput": false,
-            "title": "Feature",
-            "alignment": "centerLeft",
-            "fontWeight": 600,
-            "fontSize": 23,
-            "textOpacity": 1,
-            "marginLeft": 15.0,
-            "marginRight": 0,
-            "marginBottom": 0,
-            "marginTop": 0,
-            "paddingLeft": 5.0,
-            "paddingRight": 15,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "height": 35.9,
-            "rotate": [],
-            "minWidth": 0,
-            "layout": "header_text",
-            "pos": 400
-        },
-        {
-            "parallax": false,
-            "isPreviewing": null,
-            "isHorizontal": false,
-            "fit": "cover",
-            "marginRight": null,
-            "isBlur": false,
-            "parallaxImageRatio": 1.2,
-            "pos": 500,
-            "showNumber": false,
-            "design": "default",
-            "showBackground": false,
-            "radius": 16,
-            "height": 0.25,
-            "intervalTime": 10,
-            "padding": 20,
-            "upHeight": 0,
-            "isSlider": true,
-            "enableParallax": false,
-            "marginLeft": null,
-            "layout": "bannerImage",
-            "marginBottom": 20,
-            "autoPlay": true,
-            "items": [{
-                    "image": "https://i.imgur.com/7s5VPlB.png",
-                    "bannerWithProduct": false,
-                    "showSubcategory": false,
-                    "category": "23",
-                    "defaultShowProduct": false,
-                    "products": []
-                },
-                {
-                    "image": "https://i.imgur.com/Pb3WUND.png",
-                    "bannerWithProduct": false,
-                    "showSubcategory": false,
-                    "defaultShowProduct": false,
-                    "products": []
-                }
-            ],
-            "isBulk": true,
-            "marginTop": 0
-        },
-        {
-            "isSafeArea": false,
-            "showSearch": false,
-            "usePrimaryColor": true,
-            "borderInput": false,
-            "title": "Exercise",
-            "alignment": "centerLeft",
-            "fontWeight": 600,
-            "fontSize": 23,
-            "textOpacity": 1,
-            "marginLeft": 15.0,
-            "marginRight": 0,
-            "marginBottom": 0,
-            "marginTop": 0,
-            "paddingLeft": 5,
-            "paddingRight": 15,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "height": 35.9,
-            "rotate": [],
-            "minWidth": 0,
-            "layout": "header_text",
-            "pos": 600,
-            "isPreviewing": false,
-            "isBulk": true
-        },
-        {
-            "line": false,
-            "columns": 2,
-            "isPreviewing": false,
-            "type": "icon",
-            "showShortDescription": true,
-            "marginRight": 10,
-            "imageSpacing": 0,
-            "spacing": 8,
-            "pos": 700,
-            "radius": 12,
-            "labelFontSize": 14,
-            "noBackground": false,
-            "marginX": 10,
-            "marginLeft": 10,
-            "marginY": 5,
-            "layout": "category",
-            "paddingX": 0,
-            "imageBorderStyle": "solid",
-            "imageBorderWidth": 0,
-            "size": 1,
-            "hideTitle": false,
-            "horizontalItem": true,
-            "marginBottom": 10,
-            "wrap": true,
-            "items": [{
-                    "image": "https://i.imgur.com/5SXqZI4.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Relaxation",
-                    "colors": ["#ffd3b5ff"]
-                },
-                {
-                    "image": "https://i.imgur.com/QfOpidT.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Meditation",
-                    "colors": ["#ffffc0ee"]
-                },
-                {
-                    "image": "https://i.imgur.com/fC53I78.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Beathing",
-                    "colors": ["#ffffdab5"]
-                },
-                {
-                    "image": "https://i.imgur.com/OIWhuYk.png",
-                    "showDescription": false,
-                    "originalColor": true,
-                    "keepDefaultTitle": true,
-                    "title": "Yoga",
-                    "colors": ["#ff97d5ff"]
-                }
-            ],
-            "isBulk": false,
-            "marginTop": 10,
-            "paddingY": 0
-        },
-        {
-            "showCartIcon": true,
-            "imageBoxfit": "cover",
-            "showStockStatus": true,
-            "featured": false,
-            "hideEmptyProductLayout": false,
-            "showCountDown": false,
-            "parallax": false,
-            "columns": 0,
-            "hideStore": false,
-            "vPadding": 0,
-            "showQuantity": false,
-            "showHeart": false,
-            "isPreviewing": null,
-            "hMargin": 6,
-            "parallaxImageRatio": 1.2,
-            "showCartButtonWithQuantity": false,
-            "vMargin": 0,
-            "showOnlyImage": false,
-            "pos": 800,
-            "onSale": false,
-            "image": "",
-            "productListItemHeight": 125,
-            "showCartIconColor": false,
-            "hPadding": 0,
-            "hidePrice": false,
-            "rows": 1,
-            "enableBottomAddToCart": false,
-            "layout": "fourColumn",
-            "enableRating": true,
-            "imageRatio": 1.2,
-            "hideTitle": false,
-            "borderRadius": 3,
-            "cardDesign": "card",
-            "backgroundRadius": 10,
-            "isSnapping": false,
-            "showCartButton": false,
-            "name": "Recent Collections",
-            "cartIconRadius": 9,
-            "hideEmptyProductListRating": false,
-            "isBulk": false
-        }
+            "originalColor": false
+          },
+          {
+            "category": "gid://shopify/Collection/444199436596",
+            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
+            "colors": [
+              "#3E6AB5",
+              "#3E6AB5"
+            ]
+          },
+          {
+            "category": "gid://shopify/Collection/444199502132",
+            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
+            "colors": [
+              "#53A2CC",
+              "#53A2CC"
+            ]
+          },
+          {
+            "category": "gid://shopify/Collection/444199502132",
+            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
+            "colors": [
+              "#53688A",
+              "#53688A"
+            ]
+          },
+          {
+            "category": "gid://shopify/Collection/170409164935",
+            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
+            "colors": [
+              "#43506A",
+              "#43506A"
+            ]
+          },
+          {
+            "category": "gid://shopify/Collection/170409427079",
+            "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
+            "colors": [
+              "#12B58C",
+              "#12B58C"
+            ]
+          }
+        ]
+      },
+      {
+        "layout": "bannerImage",
+        "isSlider": true,
+        "autoPlay": true,
+        "showNumber": false,
+        "design": "default",
+        "showBackGround": true,
+        "radius": 2.0,
+        "items": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-1_950e5664-d827-40fd-acc0-460420f70254_2100x.jpg",
+            "padding": 15.0
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider_2100x.jpg",
+            "padding": 15.0
+          },
+          {
+            "product": "4620601819271",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-3_e9dd3239-1fe8-40fa-ab50-5373a42ccf20_2100x.jpg",
+            "padding": 15.0
+          }
+        ]
+      },
+      {
+        "layout": "bannerImage",
+        "items": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnic-static_590x.jpg",
+            "padding": 5.0
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/ethnics-dynamic_590x.gif",
+            "padding": 5.0,
+            "featured": true
+          }
+        ]
+      },
+      {
+        "layout": "bannerImage",
+        "items": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-dynamic_590x.gif",
+            "padding": 5.0
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "image": "https://cdn.shopify.com/s/files/1/0305/5789/6843/files/western-static_590x.jpg",
+            "padding": 5.0,
+            "featured": true
+          }
+        ]
+      },
+  
+      {
+        "layout":"bannerImage",
+        "design":"stack",
+        "fit":"cover",
+        "marginLeft":10.0,
+        "items":[
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-2_590x.jpg",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[]
+          },
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-1fdvs_590x.jpg",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[]
+          },
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-3_590x.jpg",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[]
+          },
+          {
+            "image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/disney-section-4_590x.jpg",
+            "showSubcategory":false,
+            "bannerWithProduct":false,
+            "defaultShowProduct":false,
+            "products":[]
+          }
+        ],
+        "marginBottom":0.0,
+        "height":0.25,
+        "marginRight":10.0,
+        "marginTop":10.0,
+        "radius":6.0,
+        "padding":0.0,
+        "enableParallax":false,
+        "parallaxImageRatio":1.2,
+        "isHorizontal":false,
+        "isSlider":true,
+        "autoPlay":true,
+        "intervalTime":2,
+        "showNumber":false,
+        "isBlur":false,
+        "showBackground":false,
+        "upHeight":0.0,
+        "parallax":false
+      },
+  
+      {
+        "name": "Recent View",
+        "layout": "recentView"
+      },
+      {
+        "name": "Woman Collections",
+        "image": "",
+        "layout": "threeColumn",
+        "category": "gid://shopify/Collection/444199502132",
+        "isSnapping": true
+      },
+      {
+        "name": "Man Collections",
+        "image": "",
+        "layout": "twoColumn",
+        "category": "gid://shopify/Collection/444199502132",
+        "isSnapping": true
+      },
+      {
+        "name": "Recent View",
+        "layout": "recentView"
+      },
+      {
+        "name": "New Collections",
+        "layout": "staggered",
+        "limit": 20,
+        "category": "gid://shopify/Collection/444199502132"
+      }
     ],
     "Setting": {
-        "TabBarConfig": {
-            "enableOnTop": false,
-            "color": null,
-            "radiusTopLeft": 0,
-            "paddingRight": 0,
-            "radiusTopRight": 0,
-            "TabBarIndicator": {
-                "strokeWidth": null,
-                "color": "ff027a48",
-                "horizontalPadding": null,
-                "topRightRadius": null,
-                "tabPosition": "bottom",
-                "bottomRightRadius": null,
-                "bottomLeftRadius": null,
-                "topLeftRadius": null,
-                "paintingStyle": "fill",
-                "distanceFromCenter": null,
-                "radius": null,
-                "verticalPadding": null,
-                "height": null
-            },
-            "showMinimize": false,
-            "marginRight": 0,
-            "enableDivider": true,
-            "paddingBottom": 0,
-            "indicatorStyle": "dot",
-            "enable": true,
-            "radiusBottomRight": 0,
-            "iconSize": 22.968195913186673,
-            "showFloatingClip": false,
-            "paddingTop": 0,
-            "isSafeArea": true,
-            "TabBarFloating": {
-                "elevation": null,
-                "color": "ffff672d",
-                "width": null,
-                "floatingType": "rectangle",
-                "location": "centerDocked",
-                "position": 2,
-                "radius": null,
-                "height": null
-            },
-            "showFloating": false,
-            "colorActiveIcon": "ff027a48",
-            "colorCart": null,
-            "radiusBottomLeft": 0,
-            "marginLeft": 0,
-            "colorIcon": "ff7a7b7f",
-            "marginBottom": 0,
-            "paddingLeft": 0,
-            "marginTop": 0
-        },
-        "FontFamily": "Roboto",
-        "FontHeader": "Raleway",
-        "ProductDetail": "fullSizeImageType",
-        "MainColor": "#3FC1BE",
-        "ShowChat": true,
-        "ProductListLayout": "list",
-        "StickyHeader": false
+      "MainColor": "#3FC1BE",
+      "ProductListLayout": "list",
+      "StickyHeader": false
     },
-    "TabBar": [{
-            "layout": "home",
-            "fontFamily": "CupertinoIcons",
-            "fullscreen": false,
-            "pos": 100,
-            "defaultTab": false,
-            "icon": "home"
-        },
-        {
-            "layout": "category",
-            "icon": "rectangle_grid_2x2",
-            "fontFamily": "CupertinoIcons",
-            "pos": 200,
-            "defaultTab": false,
-            "fullscreen": false,
-            "categoryLayout": "grid",
-            "parallax": false,
-            "parallaxImageRatio": 1.2
-        },
-        {
-            "layout": "cart",
-            "icon": "calendar_today_outlined",
-            "fontFamily": "MaterialIcons",
-            "pos": 300,
-            "defaultTab": false,
-            "fullscreen": false,
-            "visible": false
-        },
-        {
-            "layout": "static",
-            "icon": "calendar_today_outlined",
-            "fontFamily": "MaterialIcons",
-            "pos": 400,
-            "visible": true,
-            "defaultTab": false,
-            "fullscreen": false,
-            "data": {
-                "container": {
-                    "image": {
-                        "width": 1,
-                        "align": {
-                            "x": 1,
-                            "y": 1
-                        },
-                        "url": "https://images.unsplash.com/photo-1584352587534-5763683125b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80",
-                        "height": 0.5
-                    },
-                    "header": {
-                        "padding": {
-                            "horizontal": 20,
-                            "vertical": 10
-                        },
-                        "color": "#FFFFFF",
-                        "background": "#000000",
-                        "text": "About US",
-                        "align": {
-                            "x": -1,
-                            "y": 0.8
-                        }
-                    },
-                    "height": 0.5
-                },
-                "description": "This is description",
-                "id": 1,
-                "subHeader": "This is sub heading"
-            }
-        },
-        {
-            "layout": "profile",
-            "fontFamily": "CupertinoIcons",
-            "pos": 500,
-            "icon": "person"
-        }
-    ],
-    "AppBar": {
-        "elevation": 0,
-        "pinned": true,
-        "showOnScreens": ["home"],
-        "enable": true,
-        "floating": true,
-        "alwaysShowAppBar": false,
-        "expandedItems": [],
-        "items": [{
-                "image": "https://i.imgur.com/lQsqa9H.png",
-                "paddingRight": 4,
-                "icon": "person",
-                "type": "image",
-                "marginLeft": 4,
-                "marginRight": 4,
-                "fontFamily": "CupertinoIcons",
-                "paddingBottom": 4,
-                "size": 44,
-                "pos": 100,
-                "action": "none",
-                "textOpacity": 0.5,
-                "iconSize": 24,
-                "fontSize": 16,
-                "marginBottom": 4,
-                "paddingTop": 4,
-                "alignment": "center",
-                "radius": 24,
-                "paddingLeft": 4,
-                "fontWeight": "400",
-                "marginTop": 4
-            },
-            {
-                "paddingRight": 4,
-                "icon": "person",
-                "type": "space",
-                "marginLeft": 4,
-                "marginRight": 4,
-                "fontFamily": "CupertinoIcons",
-                "paddingBottom": 4,
-                "size": 44,
-                "pos": 200,
-                "action": "none",
-                "textOpacity": 0.5,
-                "iconSize": 24,
-                "fontSize": 16,
-                "marginBottom": 4,
-                "paddingTop": 4,
-                "alignment": "center",
-                "radius": 24,
-                "paddingLeft": 4,
-                "fontWeight": "400",
-                "marginTop": 4
-            },
-            {
-                "paddingRight": 4,
-                "icon": "bell",
-                "type": "icon",
-                "marginLeft": 4,
-                "marginRight": 4,
-                "fontFamily": "CupertinoIcons",
-                "paddingBottom": 4,
-                "size": 44,
-                "pos": 300,
-                "action": "none",
-                "textOpacity": 0.5,
-                "iconSize": 24,
-                "fontSize": 16,
-                "marginBottom": 4,
-                "paddingTop": 4,
-                "alignment": "center",
-                "radius": 24,
-                "paddingLeft": 4,
-                "fontWeight": "400",
-                "marginTop": 4
-            }
-        ],
-        "snap": true
-    },
-    "Drawer": {
-        "logo": "assets/images/logo.png",
-        "items": [{
-                "show": true,
-                "type": "home"
-            },
-            {
-                "show": true,
-                "type": "blog"
-            },
-            {
-                "show": true,
-                "type": "login"
-            },
-            {
-                "show": true,
-                "type": "category"
-            }
+    "TabBar": [
+      {
+        "layout": "home",
+        "icon": "home",
+        "pos": 100,
+        "fontFamily": "CupertinoIcons",
+        "key": "p1q235ba14"
+      },
+      {
+        "pos": 200,
+        "layout": "category",
+        "icon": "rectangle_grid_1x2",
+        "fontFamily": "CupertinoIcons",
+        "categoryLayout": "card",
+        "key": "hwu0rkrizt",
+        "remapCategories": [
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "name": "Features",
+            "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+          },
+          {
+            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+            "name": "Bags"
+          },
+          {
+            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+            "name": "Clothing"
+          },
+          {
+            "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+            "name": "Shoes"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+            "name": "Women"
+          },
+          {
+            "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+            "name": "Man"
+          }
         ]
+      },
+      {
+        "key": "2reihs4qzc",
+        "icon": "search",
+        "layout": "search",
+        "fontFamily": "CupertinoIcons",
+        "pos": 300,
+        "size": 24
+      },
+      {
+        "pos": 400,
+        "icon": "bag",
+        "layout": "cart",
+        "categoryLayout": "cart",
+        "key": "a2xts0oou6",
+        "fontFamily": "CupertinoIcons"
+      },
+      {
+        "layout": "profile",
+        "fontFamily": "CupertinoIcons",
+        "pos": 500,
+        "key": "69jw5yx12d",
+        "icon": "person"
+      }
+    ],
+    "searchSuggestion": [
+      "man",
+      "dress",
+      "Stitch",
+      "ma"
+    ],
+    "OnBoarding": {
+      "data": [
+        {
+          "title": "Welcome to FluxStore",
+          "image": "assets/images/fogg-delivery-1.png",
+          "desc": "Fluxstore is on the way to serve you. ",
+          "background": "#FFF3F2"
+        },
+        {
+          "title": "Connect Surrounding World",
+          "image": "assets/images/fogg-uploading-1.png",
+          "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+          "background": "#F2FFFC"
+        },
+        {
+          "title": "Let's Get Started",
+          "image": "fogg-order-completed.png",
+          "desc": "Waiting no more, let's see what we get!",
+          "background": "#F9F2FF"
+        }
+      ]
     }
-}
+  }
