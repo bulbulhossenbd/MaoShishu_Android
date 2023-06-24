@@ -276,6 +276,8 @@
 "isSnapping":false,
 "showCartButton":false,
 "name":"New Arrival",
+"enableAutoSliding": true,
+  "durationAutoSliding": "null",
 "cartIconRadius":9,
 "category":"gid://shopify/Collection/444199502132",
 "hideEmptyProductListRating":false
