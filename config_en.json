@@ -187,6 +187,8 @@
 "isSnapping":true,
 "name":"Woman Collections",
 "category":"gid://shopify/Collection/444199502132",
+  "enableAutoSliding": true,
+  "durationAutoSliding": "null",
 "borderRadius":3.0,
 "hMargin":6.0,
 "vMargin":0.0,
