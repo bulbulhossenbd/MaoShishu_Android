@@ -65,11 +65,13 @@
 "marginBottom":0,
 "radius":6.5,
 "autoPlay":true,
+    "isSoundOn": true,
+    "autoPlayVideo": true,
+    "enableTimeIndicator": true,
+    "doubleTapToFullScreen": true,
 "items":[
 {
-"image":"https://cdn.shopify.com/s/files/1/0305/5789/6843/files/slider-1_950e5664-d827-40fd-acc0-460420f70254_2100x.jpg",
-"bannerWithProduct":false,
-"showSubcategory":false,
+"video": "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
 "category":"Zgid://shopify/Collection/449230340418",
 "defaultShowProduct":false,
 "products":[]
