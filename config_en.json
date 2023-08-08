@@ -1612,7 +1612,7 @@
 },
 "VerticalLayout":{
 "key":"w3unr8n944",
-"layout":"default",
+"layout":"columns",
 "name":"Recent Added-- Products",
 "isVertical":true,
 "hPadding":6.0,
