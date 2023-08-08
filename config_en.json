@@ -698,7 +698,7 @@
 },
 "FontFamily":"Ubuntu",
 "FontHeader":"Ubuntu",
-"ProductDetail":"halfSizeImageType",
+"ProductDetail":"simpleType",
 "useMaterial3":false,
 "MainColor":"#3FC1BE",
 "ShowChat":true,
