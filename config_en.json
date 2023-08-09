@@ -216,7 +216,7 @@
 {
 "layout":"category",
 "type":"text",
-"wrap":true,
+"wrap":false,
 "showShortDescription":true,
 "size":1.4,
 "radius":8.0,
@@ -257,7 +257,7 @@
 {
 "colors":["#333333"],
 "originalColor":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "showDescription":false,
 "productType":false,
 "title":"Dress"
@@ -265,7 +265,7 @@
 {
 "colors":["#333333"],
 "originalColor":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "showDescription":false,
 "productType":false,
 "title":"Offer"
@@ -273,7 +273,7 @@
 {
 "colors":["#333333"],
 "originalColor":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "showDescription":false,
 "productType":false,
 "title":"99% OFF"
@@ -281,7 +281,7 @@
 {
 "colors":["#333333"],
 "originalColor":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "showDescription":false,
 "productType":false,
 "title":"30% OFF"
@@ -289,7 +289,7 @@
 {
 "colors":["#333333"],
 "originalColor":true,
-"keepDefaultTitle":false,
+"keepDefaultTitle":true,
 "showDescription":false,
 "productType":false,
 "title":"15% OFF"
@@ -320,12 +320,7 @@
 "horizontalItem":false,
 "separateWidth":24.0,
 "border":0.4,
-"enableBorder":true,
-"boxShadow":{
-"blurRadius":35.35353535353536,
-"x":6.0,
-"y":-2.0,
-"colorOpacity":0.2}
+"enableBorder":true
 },
 {
 "showCartIcon":true,
