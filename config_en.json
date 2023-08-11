@@ -1138,7 +1138,7 @@
 },
 {
 "layout":"bannerImage",
-"design":"stack",
+"design":"default",
 "fit":"fitHeight",
 "marginLeft":null,
 "items":[
