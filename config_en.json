@@ -1183,9 +1183,9 @@
 "isBlur":false,
 "showBackground":false,
 "upHeight":0.0,
-"isSoundOn":true,
+"isSoundOn":false,
 "enableTimeIndicator":true,
-"autoPlayVideo":true,
+"autoPlayVideo":false,
 "doubleTapToFullScreen":true,
 "pageIndicatorType":"line",
 "parallax":false
