@@ -834,6 +834,12 @@
 "image":"",
 "name":"Man Collections"
 },
+  {
+"layout":"twoColumn",
+"image":"",
+"cardDesign" "flat",
+"name":"Man Flat"
+},
 {
 "showCartIcon":true,
 "imageBoxfit":"cover",
