@@ -176,7 +176,7 @@
 "name":"Eid Collection",
 "cartIconRadius":9.0,
 "enableAutoSliding":true,
-"category":"25",
+"category":"gid://shopify/Collection/456999141662",
 "hideEmptyProductListRating":false,
 "order":"asc"
 },
@@ -1440,6 +1440,7 @@
 "bannerWithProduct":false,
 "showSubcategory":false,
 "video":"",
+"category":"gid://shopify/Collection/456999141662",
 "defaultShowProduct":false,
 "products":[]
 },
@@ -1449,6 +1450,7 @@
 "bannerWithProduct":false,
 "showSubcategory":false,
 "video":"",
+"category":"gid://shopify/Collection/456999141662",
 "defaultShowProduct":false,
 "products":[]
 }
